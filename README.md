@@ -27,7 +27,7 @@ Puedes clonarte este repositorio en tu ordenador local o bajarte el proyecto en 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/radostina-tachova-chergarska).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: [https://www.linkedin.com](https://www.linkedin.com/learning/domina-swift-nivel-2/eleva-tu-dominio-en-swift)
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEAkUpVJKA2Cw/learning-public-crop_675_1200/0/1695362129457?e=1696838400&v=beta&t=zhag4jA7tBWzoyFwGfm35FW2NRaaxwG0N_FmFXedO0g
 
 [1]: # (End of ES-Instruction ###############################################################################################)
