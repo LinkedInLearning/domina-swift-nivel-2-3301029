@@ -2,7 +2,7 @@
 
 Este es el repositorio del curso de LinkedIn Learning `Domina Swift: Nivel 2`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![Nombre completo del curso][lil-thumbnail-url] https://media.licdn.com/dms/image/D560DAQEAkUpVJKA2Cw/learning-public-crop_675_1200/0/1695362129457?e=2147483647&v=beta&t=8tfJGrb4GSAkkqAFLZzARfJYRNUhikmJXaLhDVzRQKg
 
 ¿Quieres llevar tus habilidades en Swift al siguiente nivel? Este curso es para aquellos que ya tienen experiencia en programación en Swift pero desean profundizar y resolver desafíos más avanzados. Amplía tus conocimientos teórico-prácticos y descubre las mejores prácticas para abordar tareas complejas. Explorarás temas como structs, clases y propiedades, enums, extensiones, errores y concurrencia. El siguiente paso en tu camino para convertirte en un experto en programación Swift, continúa tu aprendizaje.
 
